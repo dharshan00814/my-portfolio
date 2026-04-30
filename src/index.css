@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  font-family: Arial;
+  background: #0f172a;
+  color: white;
+}
+
+section {
+  padding: 50px;
+}
+
+.card {
+  background: #1e293b;
+  padding: 20px;
+  margin: 10px 0;
+}
